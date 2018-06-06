@@ -1,0 +1,17 @@
+*.mp4
+*.swp
+*.orig
+*.csv
+
+build/
+
+data/*.pdf
+
+logger/*.txt
+logger/*.csv
+logger/*.pdf
+logger/__pycache__
+
+ui/*pyc
+ui/__pycache__
+ui/*.txt

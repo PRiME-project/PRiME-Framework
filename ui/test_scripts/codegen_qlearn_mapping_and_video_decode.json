@@ -1,0 +1,14 @@
+{"type":"PRIME_UI_ADD_APP","name":"codegen", "abspath":"../build/app_decode", "arguments":"../../video.mp4 0.040 15"}
+{"type":"PRIME_UI_ADD_APP","name":"codegen2", "abspath":"../build/app_decode", "arguments":"../../video.mp4 0.040 15"}
+
+{"exec_time":1,"type":"PRIME_UI_APP_START", "name":"codegen", "UIID":"1"}
+{"exec_time":2,"type":"PRIME_UI_APP_REG", "UIID":"1"}
+{"exec_time":3,"type":"PRIME_UI_APP_START", "name":"codegen2", "UIID":"2"}
+{"exec_time":4,"type":"PRIME_UI_APP_REG", "UIID":"2"}
+
+{"exec_time":5,"type":"PRIME_UI_APP_MON_CONT_MAX", "UIID":"1", "data":{"id":1, "max":800}}
+
+{"exec_time":10,"type":"PRIME_UI_APP_DEREG", "UIID":"1"}
+{"exec_time":12,"type":"PRIME_UI_APP_STOP", "UIID":"1"}
+{"exec_time":14,"type":"PRIME_UI_APP_DEREG", "UIID":"2"}
+{"exec_time":16,"type":"PRIME_UI_APP_STOP", "UIID":"2"}

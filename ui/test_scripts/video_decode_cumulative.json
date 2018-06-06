@@ -1,0 +1,11 @@
+{"type":"PRIME_UI_ADD_APP","name":"app_decode", "abspath":"../build/app_decode", "arguments":"-f ../../video.mp4"}
+
+{"exec_time":1,"type":"PRIME_UI_APP_START", "name":"app_decode", "UIID":"1"}
+{"exec_time":2,"type":"PRIME_UI_APP_REG", "UIID":"1"}
+
+{"exec_time":4,"type":"PRIME_UI_APP_MON_CONT_MAX", "UIID":"1", "data":{"id":1, "max":800}}
+{"exec_time":6,"type":"PRIME_UI_APP_MON_CONT_MAX", "UIID":"1", "data":{"id":1, "max":600}}
+{"exec_time":8,"type":"PRIME_UI_APP_MON_CONT_MAX", "UIID":"1", "data":{"id":1, "max":400}}
+
+{"exec_time":10,"type":"PRIME_UI_APP_DEREG", "UIID":"1"}
+{"exec_time":12,"type":"PRIME_UI_APP_STOP", "UIID":"1"}

@@ -1,0 +1,61 @@
+
+                            PRiME-Framework
+							
+
+MAINTAINERS:
+
+      Dr Graeme M. Bragg <gmb@ecs.soton.ac.uk>
+	  Charles Leech <c.leech@soton.ac.uk>
+
+
+AUTHORS (Individual & merged components):
+
+      PRiME API:     James R. B. Bantock <jrbb1g11@ecs.soton.ac.uk>
+                     Dr James J. Davis <james.davis06@imperial.ac.uk>
+                     Charles Leech <c.leech@soton.ac.uk>
+                     Dr Graeme M. Bragg <gmb@ecs.soton.ac.uk>
+      Logger:        James Bantock <jrbb1g11@ecs.soton.ac.uk>
+                     Charles Leech <c.leech@soton.ac.uk>
+                     Dr Graeme M. Bragg <gmb@ecs.soton.ac.uk>
+      Visualiser:    Charles Leech <c.leech@soton.ac.uk>
+                     Dr Graeme M. Bragg <gmb@ecs.soton.ac.uk>
+                     
+    Example Device Classes:	 				
+      Odroid:        Dr Graeme M. Bragg <gmb@ecs.soton.ac.uk>
+      Cyclone V:     Dr James J. Davis <james.davis06@imperial.ac.uk>
+      KOCL:          Dr James J. Davis <james.davis06@imperial.ac.uk>
+                     
+    Example Runtime Managers:
+      ArchUtils:     Charles Leech <c.leech@soton.ac.uk>
+      Benchmark:     Charles Leech <c.leech@soton.ac.uk>
+	  Profile:       Charles Leech <c.leech@soton.ac.uk>
+      Q-Learning:    James Bantock <jrbb1g11@ecs.soton.ac.uk>
+      LRGD:          Charles Leech <c.leech@soton.ac.uk>
+      PMC:           Karunakar Reddy Basireddy <krb1g15@ecs.soton.ac.uk>
+	  Thermal:       Dr Eduaro Weber Wachter <e.weber-wachter@soton.ac.uk>
+	  BangBang:      Dr Eduaro Weber Wachter <e.weber-wachter@soton.ac.uk>
+	  
+	Example Applications:
+      Video Decode:  James Bantock <jrbb1g11@ecs.soton.ac.uk>
+      Jacobi:        Charles Leech <c.leech@soton.ac.uk>
+                     Dr James J. Davis <james.davis06@imperial.ac.uk>
+      Stereo Vision: Charles Leech <c.leech@soton.ac.uk>
+      Whetstone:     Rich Painter <r.painter@ieee.org>
+	  
+
+CONTRIBUTORS:
+     
+      James R. B. Bantock <jrbb1g11@ecs.soton.ac.uk>
+	  Joshua M. Levin <josh.levine05@imperial.ac.uk>
+	  Charles Leech <c.leech@soton.ac.uk> 
+	  Dr James J. Davis <james.davis06@imperial.ac.uk>
+	  Dr Graeme M. Bragg <gmb@ecs.soton.ac.uk>
+	  Dr Domenico Balsamo <D.Balsamo@soton.ac.uk>
+	  Dr Eduaro Weber Wachter <e.weber-wachter@soton.ac.uk>
+	  Dr Amit Singh <a.k.singh@essex.ac.uk>
+	  Dr Asieh Salehi <asf08r@ecs.soton.ac.uk>
+	  Sadegh Dalvandi <md5g11@ecs.soton.ac.uk>
+	  Karunakar Reddy Basireddy <krb1g15@ecs.soton.ac.uk>
+	  Andrea Suardi <a.suardi@imperial.ac.uk>
+	  
+	  
